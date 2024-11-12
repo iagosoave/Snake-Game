@@ -18,3 +18,8 @@ Bem-vindo ao **Snake Game**! Um jogo clássico onde você controla uma cobra que
 
   ![Tela de jogo](https://github.com/user-attachments/assets/88547275-b97d-49d5-9813-074b5c5a099a)
 
+## Como executar
+
+1. Faça o download do projeto clicando em **Code** e, em seguida, em **Download ZIP**.
+2. Extraia os arquivos do ZIP para uma pasta de sua escolha.
+3. Localize o arquivo **SnakeGame.jar** dentro da pasta.
